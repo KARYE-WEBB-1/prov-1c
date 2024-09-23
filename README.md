@@ -1,58 +1,43 @@
-# Prov 4
+# Prov 1c
 
 ## Instruktioner
-* Designen är 960px bred.
-* Placera designen ”centrerat” på sidan.
-* Skapa en ”menyn” med rollover-effekt (understruken) och vald-effekt (ljusblå) som på bilden.
-* Identifiera och välj rätt typsnitt.
-* Skapa också en ”tack-ruta” som visas när man klickar på ”Anmäl ditt intresse nu!”
+Du ska visa att:
+
+1. Du kan skapa och använda en webbrot inkl. alla förberedelser.
+2. Du kan skapa en HTML-sida med korrekt struktur med grundläggande HTML-taggar.
+3. Du kan översätta uppgiftens grafiska instruktioner till rätt CSS-egenskaper.
+4. Du kan skapa en sida enkelt utan att överkomplicera (grunder till webbstandard).
+
+### Uppgift
+- Skapa en sida som ser ut som skärmdumparna ovan.
+- Sidan har ett avstånd på 50px till toppkanten och 200px till vänsterkanten.
+- Använd http://www.google.com/fonts#UsePlace:use/Collection:Denk+One för rubrikerna "Dansens hus" och "Imorgon släpper vårens biljetter".
+- Formatera all övrig text till "Verdana".
+- Bilden på dansarna ska ha en blå ram.
+- Länka "Dansens hus" till den riktiga webbplatsen enligt skärmdumpen.
+- Infoga en tabell enligt skärmdumpen.
+- Kommentera all din kod.
+- Indentera din kod så att den är tydlig att följa.
+
+### Inlämning
+När du är klar, zippa din webbrot och maila den till karye.webb@gmail.com.
 
 ## Dokumentation
-Du får titta på följande sidor:
-* [HTML](https://www.w3schools.com/html/html_layout.asp)
-* [CSS](https://www.w3schools.com/css/default.asp)
-* [Javascript](https://www.w3schools.com/js/default.asp)
+Se till att all kod är korrekt kommenterad och lätt att följa genom ordentlig indentering.
 
 ## Kvalité
-* Kommentera din kod.
-* Indentera din kod så den är tydlig att följa.
+Sidan ska vara enkel utan överkomplicerade element, med fokus på att följa webbstandarder och instruktionerna korrekt.
 
 ## Text som används
-> Hem Käringön Hotellet Lägenheterna Aktiviteterna Bokning Erbjudanden English
-
-> Välkommen till upplevelsen Käringön!\
-> God Jul och Gott Nytt År!\
-> Den 4 februari 2008 öppnar vi bokningen igen.\
-> Anmäl ditt intresse nu!
-
-> HOTELL NAUTICA Box 4029 474 04 Käringön\
-> BESÖKSADRESS: Öviken, Käringön\
-> TELEFON: 0304-563 75\
-> E-POST: info@hotellnautica.se\
-> OBS: Under högsäsong går det snabbare att få bokningsbesked etc, om du ringer i stället för att maila.
+> "Det är härlig stämning här på Dansens Hus. Dagarna inför en premiär är så fulla av pirr, pepp och adrenalin. Lite oro finns alltid med,... Dansens hus."
 
 ## Färger som används
-
-* <code style="background:#830D28; color:#fff">#830D28</code>
-* <code style="background:#A9B7D4; color:#000">#A9B7D4</code>
-* <code style="background:#36618C; color:#fff">#36618C</code>
-* <code style="background:#000; color:#fff">#000000</code>
-* <code style="background:#888; color:#fff">#888888</code>
+- #38f7ff
+- #00a6ad
 
 ## Bilder som används
-
-### Logga
-![Logga](bilder/logga.png)
-
-### Bakgrundsbild
-![Backgrundsbild](bilder/bakgrund.jpg)
+Ladda ned alla bilder: [zip-fil](bilder/prov1c_bilder.zip)
 
 ## Skärmdumpar
 
-### Normal
-
 ![Normal](dump/dump1.png)
-
-### Klick
-
-![Klick](dump/dump2.png)
