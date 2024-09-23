@@ -1,7 +1,9 @@
 # Prov 1c
 
+![Normal](dump/dump1.png)
+
 ## Instruktioner
-- Skapa en sida som ser ut som skärmdumpen nedan.
+- Skapa en sida som ser ut som skärmdumpen ovan.
 - Sidan har ett avstånd på 50px till toppkanten och 200px till vänsterkanten.
 - Använd https://fonts.google.com/specimen/Denk+One?query=Den+one för rubrikerna "Dansens hus" och "Imorgon släpper vårens biljetter".
 - Formatera all övrig text till "Verdana".
@@ -33,7 +35,3 @@ Du får titta på följande sidor:
 ![alt text](bilder/bakgrund.jpg)
 
 ![alt text](bilder/rayahzone.jpg)
-
-## Skärmdumpar
-
-![Normal](dump/dump1.png)
