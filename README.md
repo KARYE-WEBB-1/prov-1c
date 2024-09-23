@@ -29,7 +29,10 @@ Du får titta på följande sidor:
 - #00a6ad
 
 ## Bilder som används
-Ladda ned alla bilder: [zip-fil](bilder/prov1c_bilder.zip)
+
+![alt text](bilder/bakgrund.jpg)
+
+![alt text](bilder/rayahzone.jpg)
 
 ## Skärmdumpar
 
