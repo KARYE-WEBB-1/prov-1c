@@ -8,10 +8,14 @@
 - Använd https://fonts.google.com/specimen/Denk+One?query=Den+one för rubrikerna "Dansens hus" och "Imorgon släpper vårens biljetter".
 - Formatera all övrig text till "Verdana".
 - Bilden på dansarna ska ha en blå ram.
-- Länka "Dansens hus" till den riktiga webbplatsen enligt skärmdumpen.
+- Länka "Dansens hus" till den riktiga webbplatsen enligt skärmdumpen: https://dansenshus.se
 - Infoga en tabell enligt skärmdumpen.
 - Kommentera all din kod.
 - Indentera din kod så att den är tydlig att följa.
+
+## Kvalité
+* Kommentera din kod.
+* Indentera din kod så den är tydlig att följa.
 
 ## Dokumentation
 Du får titta på följande sidor:
@@ -19,9 +23,22 @@ Du får titta på följande sidor:
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Javascript](https://www.w3schools.com/js/default.asp)
 
-## Kvalité
-* Kommentera din kod.
-* Indentera din kod så den är tydlig att följa.
+### CSS-reset
+
+Du kan använda följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
+```css
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+```
 
 ## Text som används
 > "Det är härlig stämning här på Dansens Hus. Dagarna inför en premiär är så fulla av pirr, pepp och adrenalin. Lite oro finns alltid med,... Dansens hus."
