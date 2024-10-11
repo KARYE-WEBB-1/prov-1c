@@ -1,23 +1,32 @@
 # Prov 1c
 
-![Normal](dump/dump1.png)
+## Inspelning av hela provet krävs för godkänt betyg
+> Installera **ffmepg** i terminalen:
+>
+> ```bash
+> winget install ffmpeg
+> ```
+> Starta inspelningen i **Chronicler**\
+> Gör klart uppgiften\
+> Stoppa inspelningen i Chronicler och lämna in videon på **Classroom**
 
-## Instruktioner
+## Provet
+
+![alt text](dump/dump.png)
+
+### Uppgift
 - Skapa en sida som ser ut som skärmdumpen ovan.
-- Sidan har ett avstånd på 50px till toppkanten och 200px till vänsterkanten.
-- Använd https://fonts.google.com/specimen/Denk+One?query=Den+one för rubrikerna "Dansens hus" och "Imorgon släpper vårens biljetter".
-- Formatera all övrig text till "Verdana".
-- Bilden på dansarna ska ha en blå ram.
-- Länka "Dansens hus" till den riktiga webbplatsen enligt skärmdumpen: https://dansenshus.se
+- Sidan skall vara **500px bred** och **200px från vänsterkanten**.
+- Använd typsnittet **"Playfair Display"** från Google Fonts: \
+`@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');`
+- Länka **"Dansens Hus"** till den riktiga webbplatsen: https://dansenshus.se
 - Infoga en tabell enligt skärmdumpen.
-- Kommentera all din kod.
-- Indentera din kod så att den är tydlig att följa.
 
-## Kvalité
+### Kvalité
 * Kommentera din kod.
 * Indentera din kod så den är tydlig att följa.
 
-## Dokumentation
+### Dokumentation
 Du får titta på följande sidor:
 * [HTML](https://www.w3schools.com/html)
 * [CSS](https://www.w3schools.com/css/default.asp)
@@ -25,7 +34,7 @@ Du får titta på följande sidor:
 
 ### CSS-reset
 
-Du kan använda följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
+Använd följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
 ```css
 /* Enkel CSS-reset */
 html {
@@ -40,15 +49,14 @@ body, h1, h2, h3, h4, h5, h6, p, ul {
 }
 ```
 
-## Text som används
-> "Det är härlig stämning här på Dansens Hus. Dagarna inför en premiär är så fulla av pirr, pepp och adrenalin. Lite oro finns alltid med,... Dansens hus."
+## Material som används
 
-## Färger som används
-- #38f7ff
-- #00a6ad
+### Text som används
+> "Dansens Hus är Sveriges största scen för samtida dans. Vi erbjuder ett varierat program med allt från internationella föreställningar till svenska premiärer. Se till att boka dina biljetter i tid för att säkra din plats på några av säsongens mest spännande uppsättningar."
 
-## Bilder som används
+> "Här är en översikt över biljettpriserna för olika platstyper och rabatter vid våra föreställningar:"
 
-![alt text](bilder/bakgrund.jpg)
+### Färger som används
 
-![alt text](bilder/rayahzone.jpg)
+* <code style="background:#7e00a2; color:#fff">#7e00a2</code>
+* <code style="background:#590171; color:#fff">#590171</code>
