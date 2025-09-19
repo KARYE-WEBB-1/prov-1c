@@ -1,10 +1,10 @@
 # Prov 1c
 
-## Inspelning av hela provet krävs för godkänt betyg
-1. Starta inspelningen i **Chronicler**
+## Inspelning av hela provet krävs för godkänt prov
+1. Starta inspelningen i **OBS Studio**
 1. Arbeta med uppgiften
 1. När du är klar **commit & sync**
-1. Stoppa inspelningen i **Chronicler** och lämna in videon på **Classroom**
+1. Stoppa inspelningen i **OBS Studio** och lämna in videon på **Classroom**
 
 ## Provet
 
@@ -30,27 +30,6 @@ Du får titta på följande sidor:
 * [HTML](https://www.w3schools.com/html)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Javascript](https://www.w3schools.com/js/default.asp)
-
-### CSS-reset
-
-Använd följande CSS-reset för att nollställa alla standardvärden i webbläsaren:
-```css
-/* Enkel CSS-reset */
-html {
-    box-sizing: border-box;
-}
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-body, h1, h2, h3, h4, h5, h6, p, ul {
-    margin: 0;
-    padding: 0;
-}
-img {
-    max-width: 100%;
-    height: auto;
-}
-```
 
 ## Material som används
 
