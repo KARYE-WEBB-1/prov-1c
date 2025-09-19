@@ -13,9 +13,12 @@
 ### Uppgift
 - Skapa en sida som ser ut som skärmdumpen ovan.
 - Sidan skall vara **500px bred** och **200px från vänsterkanten**.
-- Använd typsnittet **"Playfair Display"** från Google Fonts: 
+- Importera typsnittet **"Playfair Display"** från Google Fonts: 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+```
+- Använd typsnittet **"Playfair Display"**:
+```css
 font-family: "Playfair Display", serif;
 ```
 - Länka **"Dansens Hus"** till den riktiga webbplatsen: https://dansenshus.se
