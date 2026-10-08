@@ -2,9 +2,17 @@
     "workbench.iconTheme": "vscode-great-icons",
     "git.openRepositoryInParentFolders": "always",
     "workbench.colorCustomizations": {
-        "activityBar.background": "#3B1D61",
-        "titleBar.activeBackground": "#532888",
-        "titleBar.activeForeground": "#FBF9FD"
+        "activityBar.background": "#594905",
+        "titleBar.activeBackground": "#EBBF0E",
+        "titleBar.activeForeground": "#1F1902",
+        "titleBar.inactiveBackground": "#594905",
+        "titleBar.inactiveForeground": "#1F1902",
+        "statusBar.background": "#6D5806",
+        "statusBar.foreground": "#FEFBEE",
+        "statusBar.debuggingBackground": "#6D5806",
+        "statusBar.debuggingForeground": "#FEFBEE",
+        "statusBar.noFolderBackground": "#6D5806",
+        "statusBar.noFolderForeground": "#FEFBEE"
     },
     "editor.codeLens": false,
     "editor.multiCursorModifier": "ctrlCmd",
@@ -15,21 +23,7 @@
     "sessionlogger.enabled": false,
     "explorer.compactFolders": false,
     "explorer.sortOrderLexicographicOptions": "unicode",
-    "workbench.editorAssociations": {
-        "*.md": "vscode.markdown.preview.editor"
-    },
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false
-    },
-  "extensions.allowed": {
-    "emmanuelbeziat.vscode-great-icons": true,
-    "chrisdias.vscode-opennewinstance": true,
-    "k--kato.docomment": true,
-    "eliostruyf.vscode-hide-comments": true,
-    "angelo-breuer.clock": true,
-    "GitHub.copilot": false
-  },
+    "chat.commandCenter.enabled": false,
+    "chat.disableAIFeatures": true,
+    "workbench.experimental.modernUI": false
 }
