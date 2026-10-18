@@ -24,6 +24,14 @@
     "explorer.compactFolders": false,
     "explorer.sortOrderLexicographicOptions": "unicode",
     "chat.commandCenter.enabled": false,
-    "chat.disableAIFeatures": true,
-    "workbench.experimental.modernUI": false
+    "workbench.experimental.modernUI": false,
+    "unwantedRecommendations": [
+       "github.copilot",
+       "github.copilot-chat"
+   ],
+   "chat.disableAIFeatures": true,
+   "editor.inlineSuggest.enabled": false,
+   "github.copilot.enable": {
+       "*": false
+   }
 }
