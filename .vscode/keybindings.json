@@ -1,4 +1,6 @@
-{
-    "key": "alt+w",
-    "command": "editor.emmet.action.wrapWithAbbreviation"
-}
+[
+   {
+       "key": "alt+w",
+       "command": "editor.emmet.action.wrapWithAbbreviation"
+   }
+]
